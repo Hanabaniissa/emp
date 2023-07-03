@@ -1,0 +1,24 @@
+.form-container{
+
+    padding: 10rem 22% 22%;
+}
+.input__info{
+    border: 0;
+    background: rgb(245 245 245);
+}
+.btn-size{
+    width: 70px;
+    height: 46px;
+}
+.mr-ml{
+    margin: 0 10px;
+}
+.btn_form-back:hover{
+    background-color: rgb(245 245 245);
+    color: rgba(23, 162, 184, 0.82);
+}
+.btn_form-next:hover{
+    background-color: rgb(75 178 194 / 47%);
+    border: rgb(75 178 194 / 47%);
+    color: #333;
+}
